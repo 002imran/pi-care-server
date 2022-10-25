@@ -7,6 +7,7 @@ const port = process.env.PORT || 5000;
 
 
 const courses = require('./data/courses.json');
+const courseInformation = require('./data/information.json')
 
 app.get('/', (req, res) =>{
     res.send('PICare Server is Running');
@@ -15,6 +16,13 @@ app.get('/', (req, res) =>{
 app.get('/course-list', (req, res) =>{
     res.send(courses);
 })
+
+app.get('/course-details/:id', (req, res)=>{
+     const id = req.params.id;
+     const courseDetials = courseInformation.find(n => n.id === id);
+     res.send(courseDetials);
+})
+
 
 
 

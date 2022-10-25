@@ -1,0 +1,27 @@
+[
+    {
+      "id": "01",
+      "name": "Software Development"
+    },
+    {
+      "id": "02",
+      "name": "Web Development"
+    },
+    {
+      "id": "03",
+      "name": "Graphic Design"
+    },
+    {
+      "id": "04",
+      "name": "Progrmaing Language"
+    },
+    {
+      "id": "05",
+      "name": "Data Analyst"
+    },
+    {
+      "id": "06",
+      "name": "Content Creation/Video editing"
+    }
+   
+  ]

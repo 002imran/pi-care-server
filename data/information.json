@@ -1,0 +1,45 @@
+[
+    {   
+       
+       "id": "1",
+       "title": "Software Development",
+       "img" : "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2Vic2l0ZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+       "body": "We offred a software developmet course with JS and C++, in this course we desgin for the begginers friendly."
+    },
+    {   
+       
+       "id": "2",
+       "title": "Web Development",
+        "img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2Vic2l0ZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+       "body": "We offred a software developmet course with JS and C++, in this course we desgin for the begginers friendly."
+    },
+    {   
+       
+       "id": "3",
+       "title": "UI/UX Desing",
+        "img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2Vic2l0ZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+       "body": "We offred a software developmet course with JS and C++, in this course we desgin for the begginers friendly."
+    },
+    {   
+       
+       "id": "4",
+       "title": "Programing Language",
+        "img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2Vic2l0ZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+       "body": "We offred a software developmet course with JS and C++, in this course we desgin for the begginers friendly."
+    },
+    {   
+       
+       "id": "5",
+       "title": "Digital Marketing",
+       "img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2Vic2l0ZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+       "body": "We offred a software developmet course with JS and C++, in this course we desgin for the begginers friendly."
+    },
+    {   
+       
+       "id": "6",
+       "title": "Video Graphy/Content Creating",
+       "img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2Vic2l0ZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+       "body": "We offred a software developmet course with JS and C++, in this course we desgin for the begginers friendly."
+    }
+  
+]

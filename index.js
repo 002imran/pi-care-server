@@ -17,12 +17,21 @@ app.get('/course-list', (req, res) =>{
     res.send(courses);
 })
 
-app.get('/course-details/:id', (req, res)=>{
+app.get('/course/:id', (req, res)=>{
      const id = req.params.id;
      const courseDetials = courseInformation.find(n => n.id === id);
      res.send(courseDetials);
 })
 
+app.get('/course-news', (req, res) =>{
+    res.send(courseInformation);
+})
+
+app.get('/course-news/:id', (req, res) =>{
+    const id = req.params.id;
+    const selectedCourse = courseInformation.find( n=> n.id=== id);
+    res.send(selectedCourse);
+})
 
 
 

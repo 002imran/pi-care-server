@@ -3,43 +3,42 @@
        
        "id": "1",
        "title": "Software Development",
-       "img" : "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2Vic2l0ZXxlbnwwfHwwfHw%3D&w=1000&q=80",
-       "body": "We offred a software developmet course with JS and C++, in this course we desgin for the begginers friendly."
+        "img": "https://images.unsplash.com/photo-1553877522-43269d4ea984?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "body": "We offred a software developmet course with C++, Python, in this course we desgin for the begginers friendly.We cover basic algorithm ,data structure and all of things related to software related tools.Al most 5 advanced and 5 basic level project we will  teach you.SO dont over thinking just grap your course"
     },
     {   
        
        "id": "2",
        "title": "Web Development",
         "img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2Vic2l0ZXxlbnwwfHwwfHw%3D&w=1000&q=80",
-       "body": "We offred a software developmet course with JS and C++, in this course we desgin for the begginers friendly."
+       "body": "We offred a software developmet course with JS and PHP, in this course we desgin for the begginers friendly. In this course we you'll get an overview of everything you're going to learn to become a full-stack web developer. Learn front end to backend web development with HTML, CSS, Bootstrap 4, es6, Node, Express, Mongo & React."
     },
     {   
        
        "id": "3",
        "title": "UI/UX Desing",
-        "img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2Vic2l0ZXxlbnwwfHwwfHw%3D&w=1000&q=80",
-       "body": "We offred a software developmet course with JS and C++, in this course we desgin for the begginers friendly."
+        "img": "https://images.unsplash.com/photo-1603969072881-b0fc7f3d77d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHVpJTIwZGVzaWdufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+       "body": "This course for the new learners who don't have any idea about ui/ux design ,we will cover every thing about UI/UX design. Just need a Computer or Laptop a strong mindset."
     },
     {   
        
        "id": "4",
        "title": "Programing Language",
-        "img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2Vic2l0ZXxlbnwwfHwwfHw%3D&w=1000&q=80",
-       "body": "We offred a software developmet course with JS and C++, in this course we desgin for the begginers friendly."
+        "img": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+       "body": "Fundamentals of Programming Summarized & Concise Material [Saving TONS of Time! OVER 100 Practical Exercises! Animated Explanation & Illustrations - Explaining, Hard Topics, EASYC Programming Language Concepts & UsageC Program Structure"
     },
     {   
        
        "id": "5",
        "title": "Digital Marketing",
-       "img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2Vic2l0ZXxlbnwwfHwwfHw%3D&w=1000&q=80",
-       "body": "We offred a software developmet course with JS and C++, in this course we desgin for the begginers friendly."
+       "img": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+       "body": "The course is hugely interactive with projects, checklists & actionable lectures built into every section. Learn step by step how to market a business online from scratch across all the major marketing channels.Follow the steps on screen to get results at work, for own business or for your digital marketing clients.."
     },
     {   
        
        "id": "6",
        "title": "Video Graphy/Content Creating",
-       "img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2Vic2l0ZXxlbnwwfHwwfHw%3D&w=1000&q=80",
-       "body": "We offred a software developmet course with JS and C++, in this course we desgin for the begginers friendly."
-    }
-  
+       "img": "https://images.unsplash.com/photo-1620674156044-52b714665d46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+       "body": "This course is a Video Editing made easy and Graphic designing, all with your Smartphone. It has a step by step guide to creating amazing videos either for business or personal use.  Visual content is very important in our world today and this course will help you to be able to create visual engaging contents that stand out. You need this course because Video and Graphics is for everyone. Enroll now lets learn a lot of things you can do with your Smartphone - (Both iOS and Android)"
+   }
 ]
